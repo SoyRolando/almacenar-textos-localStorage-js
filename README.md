@@ -1,0 +1,1 @@
+# almacenar-textos-localStorage-js
