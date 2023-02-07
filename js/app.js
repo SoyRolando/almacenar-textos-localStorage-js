@@ -65,7 +65,7 @@ function mostrarError(texto){
     // Elimina la alerta despues de 2 seg
     setTimeout(() => {
         mensajeError.remove();
-    }, 2000);
+    }, 3000);
 }
 
 // Mustra un listado de los tweets
